@@ -9,7 +9,7 @@ Supported backends:
 ## Prerequisites
 
 * Erlang/OTP 19 or higher
-* ejabberd 18.01
+* ejabberd 19.05
 
 ## Installation
 
